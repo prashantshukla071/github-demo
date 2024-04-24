@@ -1,4 +1,4 @@
-#Git guide
+#Git guide to use git effectively
 #Directory commands
 mkdir [Name] --(to run in cmd, to create a new directory with the name suffixed)
 cd [Name]--(to change directory to the name suffixed)
